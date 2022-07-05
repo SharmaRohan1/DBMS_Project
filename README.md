@@ -5,7 +5,7 @@ MADE BY-
 Rohan 2K20/IT/121 & Sanyam Maheshwari 2K20/IT/129
 (DELHI TECHNOLOGICAL UNIVERSITY)
 
-ABOUT THE PROJECT
+ABOUT THE PROJECT-
 A realtime stocks portfolio manager with a simple and easy to use interface.
 Used making Python making use of NSEPython library , MySQL , PySimpleGUI for making the interface.
 
