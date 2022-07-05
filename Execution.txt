@@ -1,0 +1,4 @@
+1) creatingTables.py
+2) insertingStaticData
+3) insertingDynamicData
+4) Login page
