@@ -6,7 +6,7 @@ Rohan 2K20/IT/121 & Sanyam Maheshwari 2K20/IT/129
 (DELHI TECHNOLOGICAL UNIVERSITY)
 
 ABOUT THE PROJECT
-A stocks portfolio manager with a simple and easy to use interface.
+A realtime stocks portfolio manager with a simple and easy to use interface.
 Used making Python making use of NSEPython library , MySQL , PySimpleGUI for making the interface.
 
 FOR EXECUTION OF THE PROJECT, EXECUTE FILES IN THIS SEQUENCE-
