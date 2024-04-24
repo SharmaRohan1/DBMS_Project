@@ -2,7 +2,7 @@
 Project for DBMS. 4th semester. 
 
 MADE BY-
-Rohan 2K20/IT/121 & Sanyam Maheshwari 2K20/IT/129
+Rohan 2K20/IT/121, Siddharth Bose 2K20/IT/144 & Sanyam Maheshwari 2K20/IT/129
 (DELHI TECHNOLOGICAL UNIVERSITY)
 
 ABOUT THE PROJECT-
